@@ -1,1 +1,9 @@
 public/index.html linguist-vendored=true
+
+public/css/main.css linguist-vendored=true
+
+app/assets/stylesheets/application.css linguist-vendored=true
+
+public/css/animate linguist-vendored=true
+
+public/css/prettyPhoto.css linguist-vendored=true
